@@ -44,6 +44,9 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [SonarQube](https://github.com/roadiehq/backstage-plugin-sonarqube) - Analyze and monitor code quality with SonarQube.
 - [CircleCI](https://github.com/roadiehq/backstage-plugin-circleci) - Monitor your CircleCI builds.
 - [Prometheus](https://github.com/roadiehq/backstage-plugin-prometheus) - Monitor application performance using Prometheus.
+- [Bazaar](https://github.com/backstage/backstage/tree/master/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
+- [backstage-aws-cloudformation-plugin](https://github.com/RoadieHQ/backstage-plugin-aws-cloudformation) - Manage AWS CloudFormation stacks.
+- [aws-lambda](https://github.com/RoadieHQ/backstage-plugin-aws-lambda) - Manage and monitor your AWS Lambda functions.
 
 ## Tutorials and Guides
 
@@ -87,5 +90,4 @@ This awesome list is released under the [CC0 1.0 Universal License](https://crea
 ## Contributing
 
 Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
 
