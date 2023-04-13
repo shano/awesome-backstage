@@ -39,25 +39,25 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ### Community Plugins
 
-- [GitHub Actions](https://github.com/roadiehq/backstage-plugin-github-actions) - Monitor your GitHub Actions workflows.
-- [Jenkins](https://github.com/roadiehq/backstage-plugin-jenkins) - Integrate Jenkins for CI/CD.
-- [SonarQube](https://github.com/roadiehq/backstage-plugin-sonarqube) - Analyze and monitor code quality with SonarQube.
-- [CircleCI](https://github.com/roadiehq/backstage-plugin-circleci) - Monitor your CircleCI builds.
-- [Prometheus](https://github.com/roadiehq/backstage-plugin-prometheus) - Monitor application performance using Prometheus.
+- [GitHub Actions](https://roadie.io/backstage/plugins/github-actions/) - Monitor your GitHub Actions workflows.
+- [Jenkins](https://roadie.io/backstage/plugins/jenkins/) - Integrate Jenkins for CI/CD.
+- [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
+- [CircleCI](https://roadie.io/backstage/plugins/circle-ci/) - Monitor your CircleCI builds.
+- [Prometheus](https://roadie.io/backstage/plugins/prometheus/) - Monitor application performance using Prometheus.
 - [Bazaar](https://github.com/backstage/backstage/tree/master/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
-- [backstage-aws-cloudformation-plugin](https://github.com/RoadieHQ/backstage-plugin-aws-cloudformation) - Manage AWS CloudFormation stacks.
-- [aws-lambda](https://github.com/RoadieHQ/backstage-plugin-aws-lambda) - Manage and monitor your AWS Lambda functions.
+- [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
+- [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
 
 ## Tutorials and Guides
 
 - [Getting Started with Backstage](https://backstage.io/docs/getting-started/)
 - [Creating a Plugin](https://backstage.io/docs/plugins/create-a-plugin)
 - [Integrating with Existing Infrastructure](https://backstage.io/docs/integrations/)
-- [Customizing the UI](https://backstage.io/docs/dls/overview)
+- [Customizing the UI](https://backstage.io/docs/getting-started/app-custom-theme/)
 
 ## Tools and Integrations
 
-- [Backstage CLI](https://backstage.io/docs/cli/)
+- [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/backstage/tree/master/contrib/chart/backstage) - Helm chart for deploying Backstage on Kubernetes.
@@ -67,14 +67,12 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Backstage Community](https://github.com/backstage/community) - Join the Backstage community to ask questions and share your knowledge.
 - [Good First Issues](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - Contribute to the project by tackling "Good First Issues" on GitHub.
 - [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
-- [Mailing List](https://groups.google.com/g/backstage-users) - Subscribe to the Backstage mailing list to receive updates and announcements.
 
 ## Articles and Presentations
 
-- [Introduction to Backstage](https://www.youtube.com/watch?v=Rppv_tlzDOI) - A video introduction to Backstage by Spotify.
-- [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=6vp-4xCxafs) - Learn how to create a plugin for Backstage.
+- [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
+- [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Scaling Microservices with Backstage](https://www.youtube.com/watch?v=yszSDrUvijQ) - A presentation on how Backstage can help scale microservices.
 
 ## Related Projects
 
