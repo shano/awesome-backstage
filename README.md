@@ -47,6 +47,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Bazaar](https://github.com/backstage/backstage/tree/master/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
 - [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
 - [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
+- [Gitpod](https://www.gitpod.io/blog/introducing-gitpods-backstage-plugin) - Provide on-demand cloud development environments pre-configured with all the tools, libraries and dependencies required to write, test and review code.
 
 ## Tutorials and Guides
 
