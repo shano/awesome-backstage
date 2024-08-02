@@ -62,7 +62,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
-- [Backstage Helm Chart](https://github.com/backstage/backstage/tree/master/contrib/chart/backstage) - Helm chart for deploying Backstage on Kubernetes.
+- [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
 
 ## Community and Contributions
 
