@@ -35,16 +35,18 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Catalog](https://github.com/backstage/backstage/tree/master/plugins/catalog) - Provides an inventory of all components in your ecosystem.
 - [TechDocs](https://github.com/backstage/backstage/tree/master/plugins/techdocs) - Manage and display technical documentation for your components.
 - [Scaffolder](https://github.com/backstage/backstage/tree/master/plugins/scaffolder) - Create new components using templates.
-- [Cost Insights](https://github.com/backstage/backstage/tree/master/plugins/cost-insights) - Gain insights into your cloud costs.
+- [Cost Insights](https://github.com/backstage/community-plugins/tree/main/workspaces/cost-insights/plugins/cost-insights) - Gain insights into your cloud costs.
 
 ### Community Plugins
 
+- 
+- [Community Plugins](https://github.com/backstage/community-plugins) - Where backstage maintains the list of community plugins available.
 - [GitHub Actions](https://roadie.io/backstage/plugins/github-actions/) - Monitor your GitHub Actions workflows.
 - [Jenkins](https://roadie.io/backstage/plugins/jenkins/) - Integrate Jenkins for CI/CD.
 - [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
 - [CircleCI](https://roadie.io/backstage/plugins/circle-ci/) - Monitor your CircleCI builds.
 - [Prometheus](https://roadie.io/backstage/plugins/prometheus/) - Monitor application performance using Prometheus.
-- [Bazaar](https://github.com/backstage/backstage/tree/master/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
+- [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
 - [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
 - [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
 
