@@ -59,6 +59,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ## Tools and Integrations
 
+- [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
