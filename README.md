@@ -1,5 +1,6 @@
 # Awesome Backstage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="backstage-logo.svg" align="right" width="100">](https://backstage.io)
 
 A curated list of awesome Backstage resources, plugins, tech docs, and more! Backstage is an open-source platform that helps developers build, test, and maintain software with ease. This repository aims to provide a comprehensive collection of resources and tools for using Backstage effectively.
 
@@ -18,7 +19,6 @@ A curated list of awesome Backstage resources, plugins, tech docs, and more! Bac
 
 ## Official Resources
 
-- [Backstage Homepage](https://backstage.io/)
 - [GitHub Repository](https://github.com/backstage/backstage)
 - [Documentation](https://backstage.io/docs/)
 - [Blog](https://backstage.io/blog/)
