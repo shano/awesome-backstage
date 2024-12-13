@@ -39,7 +39,6 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ### Community Plugins
 
-- 
 - [Community Plugins](https://github.com/backstage/community-plugins) - Where backstage maintains the list of community plugins available.
 - [GitHub Actions](https://roadie.io/backstage/plugins/github-actions/) - Monitor your GitHub Actions workflows.
 - [Jenkins](https://roadie.io/backstage/plugins/jenkins/) - Integrate Jenkins for CI/CD.
@@ -64,6 +63,9 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
+- [Backstage ArgoCD Integration](https://roadie.io/backstage/plugins/argo-cd/) - Present ArgoCDs GitOps workflows in Backstage.
+- [Kratix with Backstage](https://docs.kratix.io/main/how-kratix-complements/backstage) - Integrate Kratix Platform Engineering Framework with Backstage to easily deploy promises.
+- [Crossplane with Backstage](https://www.youtube.com/watch?v=d2L6PWGfhXI) - Guide on integrating Crossplane with Backstage.
 
 ## Community and Contributions
 
