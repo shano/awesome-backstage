@@ -1,22 +1,22 @@
-# Awesome Backstage
+# Awesome Backstage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome [Backstage](https://backstage.io/) resources, plugins, tech docs, and more! Backstage is an open-source platform that helps developers build, test, and maintain software with ease. This repository aims to provide a comprehensive collection of resources and tools for using Backstage effectively.
+
+A curated list of awesome Backstage resources, plugins, tech docs, and more! Backstage is an open-source platform that helps developers build, test, and maintain software with ease. This repository aims to provide a comprehensive collection of resources and tools for using Backstage effectively.
 
 ## Contents
 
-- [Awesome Backstage](#awesome-backstage)
-  - [Contents](#contents)
-  - [Official Resources](#official-resources)
-  - [Plugins](#plugins)
-    - [Core Plugins](#core-plugins)
-    - [Community Plugins](#community-plugins)
-  - [Tutorials and Guides](#tutorials-and-guides)
-  - [Tools and Integrations](#tools-and-integrations)
-  - [Community and Contributions](#community-and-contributions)
-  - [Articles and Presentations](#articles-and-presentations)
-  - [Related Projects](#related-projects)
-  - [License](#license)
-  - [Contributing](#contributing)
+
+- [Official Resources](#official-resources)
+- [Plugins](#plugins)
+  - [Core Plugins](#core-plugins)
+  - [Community Plugins](#community-plugins)
+- [Tutorials and Guides](#tutorials-and-guides)
+- [Tools and Integrations](#tools-and-integrations)
+- [Community and Contributions](#community-and-contributions)
+- [Articles and Presentations](#articles-and-presentations)
+- [Related Projects](#related-projects)
+- [License](#license)
+- [Contributing](#contributing)
 
 ## Official Resources
 
@@ -83,12 +83,6 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit and viewing the changes over time.
 - [Roadie](https://roadie.io/) - Managed Backstage service for enterprises.
-
-## License
-
-This awesome list is released under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-[![CC0 License](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributing
 
