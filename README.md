@@ -15,7 +15,6 @@ A curated list of awesome Backstage resources, plugins, tech docs, and more! Bac
 - [Community and Contributions](#community-and-contributions)
 - [Articles and Presentations](#articles-and-presentations)
 - [Related Projects](#related-projects)
-- [Contributing](#contributing)
 
 ## Official Resources
 
