@@ -49,6 +49,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ## Tutorials and Guides
 
+- [Backstage Learn](https://backstage.spotify.com/learn/)
 - [Getting Started with Backstage](https://backstage.io/docs/getting-started/)
 - [Creating a Plugin](https://backstage.io/docs/plugins/create-a-plugin)
 - [Integrating with Existing Infrastructure](https://backstage.io/docs/integrations/)
