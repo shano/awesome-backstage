@@ -8,8 +8,6 @@ A curated list of awesome Backstage resources, plugins, tech docs, and more! Bac
 
 - [Official Resources](#official-resources)
 - [Plugins](#plugins)
-  - [Core Plugins](#core-plugins)
-  - [Community Plugins](#community-plugins)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Tools and Integrations](#tools-and-integrations)
 - [Community and Contributions](#community-and-contributions)
