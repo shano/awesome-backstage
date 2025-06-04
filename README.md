@@ -6,7 +6,6 @@ A curated list of awesome Backstage resources, plugins, tech docs, and more! Bac
 
 ## Contents
 
-
 - [Official Resources](#official-resources)
 - [Plugins](#plugins)
   - [Core Plugins](#core-plugins)
@@ -37,7 +36,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ### Community Plugins
 
-- [Community Plugins](https://github.com/backstage/community-plugins) - Where backstage maintains the list of community plugins available.
+- [Community Plugins](https://github.com/backstage/community-plugins) - Where Backstage maintains the list of community plugins available.
 - [GitHub Actions](https://roadie.io/backstage/plugins/github-actions/) - Monitor your GitHub Actions workflows.
 - [Jenkins](https://roadie.io/backstage/plugins/jenkins/) - Integrate Jenkins for CI/CD.
 - [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
@@ -46,6 +45,12 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
 - [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
 - [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
+- [AiKA](https://backstage.spotify.com/discover/blog/aika-data-plugins-coming-to-portal/) - AI-powered assistant for context-aware answers from your internal docs and APIs.
+- [RAG AI Plugin](https://www.opslevel.com/resources/top-10-backstage-plugins-for-2025) - Adds retrieval-augmented generation using LLMs for your internal knowledge.
+- [Announcements Plugin](https://www.npmjs.com/package/@backstage-community/plugin-announcements) - Create and manage internal announcements directly in Backstage.
+- [Git Release Manager](https://backstage.spotify.com/partners/spotify/plugin/git-release-manager/) - Automate GitHub release workflows from within Backstage.
+- [Port Plugin](https://www.port.io/blog/top-5-backstage-plugins) - Sync data from across your stack into scorecards and dashboards.
+- [Env0 Plugin](https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal) - Manage Infrastructure as Code (IaC) workflows and self-service provisioning.
 
 ## Tutorials and Guides
 
@@ -62,7 +67,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
-- [Backstage ArgoCD Integration](https://roadie.io/backstage/plugins/argo-cd/) - Present ArgoCDs GitOps workflows in Backstage.
+- [Backstage ArgoCD Integration](https://roadie.io/backstage/plugins/argo-cd/) - Present ArgoCD's GitOps workflows in Backstage.
 - [Kratix with Backstage](https://docs.kratix.io/main/how-kratix-complements/backstage) - Integrate Kratix Platform Engineering Framework with Backstage to easily deploy promises.
 - [Crossplane with Backstage](https://www.youtube.com/watch?v=d2L6PWGfhXI) - Guide on integrating Crossplane with Backstage.
 
