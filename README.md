@@ -49,6 +49,16 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Git Release Manager](https://backstage.spotify.com/partners/spotify/plugin/git-release-manager/) - Automate GitHub release workflows from within Backstage.
 - [Port Plugin](https://www.port.io/blog/top-5-backstage-plugins) - Sync data from across your stack into scorecards and dashboards.
 - [Env0 Plugin](https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal) - Manage Infrastructure as Code (IaC) workflows and self-service provisioning.
+- [Tech Insights Scorecards](https://roadie.io/backstage/plugins/tech-insights/) - Automate service maturity scorecards with centralized checks across your catalog.
+- [Scaffolder Yeoman Module](https://www.npmjs.com/package/@backstage/plugin-scaffolder-backend-module-yeoman) - Extend golden paths with Yeoman blueprints and new template actions like GitHub Issues or Terraform Cloud.
+- [Microsoft Graph Catalog Module](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph) - Synchronize Azure AD users and groups as Backstage entities.
+- [Azure DevOps Catalog Modules](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-azure) - Bring Azure Repos, Boards, and Pipelines metadata into the catalog backend.
+- [Search Backend Modules](https://www.npmjs.com/package/@backstage/plugin-search-backend-module-elasticsearch) - Unlock faster, filtered search with Elasticsearch or Lunr-powered hybrid indexing.
+- [GitHub Projects](https://www.npmjs.com/package/@backstage-community/plugin-github-projects) - Manage and triage GitHub Projects (v2) without leaving Backstage.
+- [New Relic](https://www.npmjs.com/package/@backstage-community/plugin-newrelic) - Jump straight from service catalog entries to New Relic dashboards.
+- [Datadog](https://www.npmjs.com/package/@backstage-community/plugin-datadog) - Surface Datadog monitors, service maps, and dashboards next to entities.
+- [Snyk Security Insights](https://www.npmjs.com/package/@backstage-community/plugin-snyk) - Annotate catalog entities with Snyk vulnerability and risk signals.
+- [Wiz Security](https://www.npmjs.com/package/@backstage-community/plugin-wiz) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
 
 ## Tutorials and Guides
 
@@ -74,12 +84,15 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Backstage Community](https://github.com/backstage/community) - Join the Backstage community to ask questions and share your knowledge.
 - [Good First Issues](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - Contribute to the project by tackling "Good First Issues" on GitHub.
 - [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
+- [Roadie Marketplace Digest](https://roadie.io/changelog/) - Track newly released community plugins and Backstage enhancements each week.
 
 ## Articles and Presentations
 
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
+- [Backstage v1.24.0 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.24.0) - Overview of the Granular Permissions v2 rollout and policy-as-code updates.
+- [Software Catalog Next RFC](https://github.com/backstage/backstage/discussions?discussions_q=label%3A%22RFC%22+software+catalog) - Follow the catalog relationship remapping proposal and community feedback.
 
 ## Related Projects
 
