@@ -13,6 +13,7 @@ A curated list of awesome [Backstage](https://backstage.io/) resources, plugins,
 - [Community and Contributions](#community-and-contributions)
 - [Articles and Presentations](#articles-and-presentations)
 - [Related Projects](#related-projects)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes management portal complementary to Backstage; provides cluster health, GitOps, RBAC management and AI-assisted operations for platform engineering teams.
 
 ## Official Resources
 
