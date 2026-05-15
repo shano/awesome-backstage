@@ -91,12 +91,37 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ## Articles and Presentations
 
+### Videos
+
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
-- [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.50.4 Release Notes](https://backstage.io/docs/releases/v1.50.4/) - Latest stable release (2026-04-29) with platform updates and bug fixes.
+- [BackstaceCon 2026 Amsterdam playlist](https://www.youtube.com/watch?v=93M6jStFEf4&list=PL8iP9yIjU0Q0eZv3LncHLG3g5itFec995)
+- [BackstageCon 2025 Atlanta playlist](https://www.youtube.com/watch?v=vcMzVi92n-w&list=PL8iP9yIjU0Q33vpSaBlAvIhgDb-9smXUU)
+
+### Blog Posts
+
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
+- [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
+- [Backstage in Production Becomes a Platform Operating System](https://drodil.medium.com/backstage-in-production-becomes-a-platform-operating-system-f1ecd0b6fb7b)
+- [Backstage TechDocs: Turning Documentation from Obligation to Culture](https://drodil.medium.com/backstage-techdocs-turning-documentation-from-obligation-to-culture-38464c53c266)
+- [The Hardest Part of Contributing to Open Source Is Not the Code](https://drodil.medium.com/the-hardest-part-of-contributing-to-open-source-is-not-the-code-c45b51054957)
+- [Backstage Does Not Need More Plugins, It Needs Better Gardens](https://drodil.medium.com/backstage-does-not-need-more-plugins-it-needs-better-gardens-3f9dfdc0d131)
+- [Backstage Meets AI: The MCP Integration](https://drodil.medium.com/backstage-meets-ai-the-mcp-integration-ba3c67e41e05)
+- [Backstage Catalog Mysteries](https://drodil.medium.com/backstage-catalog-mysteries-b7d28e137be7)
+- [Backstage Notifications](https://drodil.medium.com/backstage-notifications-ceedf812ceef)
+- [Avoiding Pitfalls with Backstage Catalog](https://drodil.medium.com/avoiding-pitfalls-with-backstage-catalog-209118cebaf2)
+- [Creating Backstage Scaffolder Actions](https://drodil.medium.com/creating-backstage-scaffolder-actions-7823b88c3c1c)
+- [4 Principals for Developing Backstage Application](https://drodil.medium.com/4-principals-for-developing-backstage-application-7fccd562ce64)
+- [Implementing Backstage Search Collator](https://drodil.medium.com/implementing-backstage-search-collator-112cd9433815)
+- [Processing Backstage Entities](https://drodil.medium.com/processing-backstage-entities-48dbee26bb54)
+- [Building Backstage Catalog Providers](https://medium.com/better-programming/building-backstage-catalog-providers-9c144b2e6e7b)
+- [Writing Backstage Plugins](https://medium.com/better-programming/writing-backstage-plugins-a6bb1283f42)
+- [Welcome to Backstage](https://drodil.medium.com/welcome-to-backstage-a51f853ec1cd)
+
+## Other
+
+- [Backstage v1.50.4 Release Notes](https://backstage.io/docs/releases/v1.50.4/) - Latest stable release (2026-04-29) with platform updates and bug fixes.
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
 - [CVE-2024-26150 Security Notice](https://backstage.io/blog/2024/02/28/security-notice/) - Scaffolder path traversal fix and recommended upgrades.
 - [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
