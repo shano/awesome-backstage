@@ -41,6 +41,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
 - [CircleCI](https://roadie.io/backstage/plugins/circle-ci/) - Monitor your CircleCI builds.
 - [Prometheus](https://roadie.io/backstage/plugins/prometheus/) - Monitor application performance using Prometheus.
+- [Qeta](https://github.com/drodil/backstage-plugin-qeta) - Stack Overflow-inspired Q&A and knowledge sharing plugin for questions, answers, articles, collections, and AI-assisted collaboration.
 - [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
 - [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
 - [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
@@ -51,6 +52,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Port Plugin](https://www.port.io/blog/top-5-backstage-plugins) - Sync data from across your stack into scorecards and dashboards.
 - [Env0 Plugin](https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal) - Manage Infrastructure as Code (IaC) workflows and self-service provisioning.
 - [Tech Insights Scorecards](https://roadie.io/backstage/plugins/tech-insights/) - Automate service maturity scorecards with centralized checks across your catalog.
+- [Toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Add a toolbox page with built-in and custom developer utilities directly inside Backstage.
 - [Scaffolder Yeoman Module](https://www.npmjs.com/package/@backstage/plugin-scaffolder-backend-module-yeoman) - Extend golden paths with Yeoman blueprints and new template actions like GitHub Issues or Terraform Cloud.
 - [Microsoft Graph Catalog Module](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph) - Synchronize Azure AD users and groups as Backstage entities.
 - [Azure DevOps Catalog Modules](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-azure) - Bring Azure Repos, Boards, and Pipelines metadata into the catalog backend.
