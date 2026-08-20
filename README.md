@@ -41,6 +41,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
 - [CircleCI](https://roadie.io/backstage/plugins/circle-ci/) - Monitor your CircleCI builds.
 - [Prometheus](https://roadie.io/backstage/plugins/prometheus/) - Monitor application performance using Prometheus.
+- [Qeta](https://github.com/drodil/backstage-plugin-qeta) - Stack Overflow-inspired Q&A and knowledge sharing plugin for questions, answers, articles, collections, and AI-assisted collaboration.
 - [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - Discover and collaborate on internal projects within your organization.
 - [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) - Manage AWS CloudFormation stacks.
 - [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
@@ -51,6 +52,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Port Plugin](https://www.port.io/blog/top-5-backstage-plugins) - Sync data from across your stack into scorecards and dashboards.
 - [Env0 Plugin](https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal) - Manage Infrastructure as Code (IaC) workflows and self-service provisioning.
 - [Tech Insights Scorecards](https://roadie.io/backstage/plugins/tech-insights/) - Automate service maturity scorecards with centralized checks across your catalog.
+- [Toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Add a toolbox page with built-in and custom developer utilities directly inside Backstage.
 - [Scaffolder Yeoman Module](https://www.npmjs.com/package/@backstage/plugin-scaffolder-backend-module-yeoman) - Extend golden paths with Yeoman blueprints and new template actions like GitHub Issues or Terraform Cloud.
 - [Microsoft Graph Catalog Module](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph) - Synchronize Azure AD users and groups as Backstage entities.
 - [Azure DevOps Catalog Modules](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-azure) - Bring Azure Repos, Boards, and Pipelines metadata into the catalog backend.
@@ -94,7 +96,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.50.4 Release Notes](https://backstage.io/docs/releases/v1.50.4/) - Latest stable release (2026-04-29) with platform updates and bug fixes.
+- [Backstage v1.54.0 Release Notes](https://backstage.io/docs/releases/v1.54.0/) - Latest stable release with platform updates and bug fixes.
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
@@ -107,6 +109,8 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit and viewing the changes over time.
 - [Roadie](https://roadie.io/) - Managed Backstage service for enterprises.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes management portal complementary to Backstage; provides cluster health, GitOps, RBAC management and AI-assisted operations for platform engineering teams.
+- [OpenChoreo](https://openchoreo.dev/) - CNCF Sandbox open-source internal developer platform for Kubernetes with a Backstage-powered developer portal, CI/CD, GitOps, and observability built in.
 
 ## Contributing
 
