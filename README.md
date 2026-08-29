@@ -60,10 +60,13 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [New Relic](https://www.npmjs.com/package/@backstage-community/plugin-newrelic) - Jump straight from service catalog entries to New Relic dashboards.
 - [Apiiro](https://github.com/backstage/community-plugins/blob/main/workspaces/apiiro/plugins/apiiro/README.md) - Surface Apiiro application risk context directly in Backstage entities.
 - [Wiz Security](https://github.com/wiz-sec-public/backstage-plugin-wiz) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
+- [Firefly](https://www.firefly.ai/blog/introducing-fireflys-backstage-plugin-cloud-visibility-meets-developer-portals) - Bring cloud asset visibility, IaC coverage, and drift detection into the catalog.
+- [DevLake DORA](https://roadie.io/backstage-weekly/128-backstagecon-recordings-devlake-plugin-new-releases/) - Community backend module surfacing DORA metrics from Apache DevLake.
 
 ## Tutorials and Guides
 
 - [Backstage Learn](https://backstage.spotify.com/learn/)
+- [Spotify Plugins Release Notes](https://backstage.spotify.com/release-notes/) - Track updates to Soundcheck, Insights, RBAC, and other Spotify plugins.
 - [Getting Started with Backstage](https://backstage.io/docs/getting-started/)
 - [Creating a Plugin](https://backstage.io/docs/plugins/create-a-plugin)
 - [Integrating with Existing Infrastructure](https://backstage.io/docs/integrations/)
@@ -75,7 +78,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 - [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
-- [Upgrade Helper](https://backstage.github.io/upgrade-helper/?to=1.48.0) - Compare versions and plan dependency updates for Backstage upgrades.
+- [Upgrade Helper](https://backstage.github.io/upgrade-helper/?to=1.54.0) - Compare versions and plan dependency updates for Backstage upgrades.
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
@@ -90,15 +93,17 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
 - [Get a Jump on ContribFest](https://backstage.io/blog/2026/02/25/get-a-jump-on-contribfest) - Learn how to participate in the latest contribution event cycle.
 - [ContribFest App](https://contribfest.backstage.io/) - Browse contribution opportunities and project tracks for ContribFest.
+- [Backstage Weekly](https://roadie.io/backstage-weekly/) - Weekly newsletter tracking releases, plugins, and community news.
 
 ## Articles and Presentations
 
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.54.0 Release Notes](https://backstage.io/docs/releases/v1.54.0/) - Latest stable release with platform updates and bug fixes.
+- [Backstage v1.54.0 Release Notes](https://backstage.io/docs/releases/v1.54.0/) - Latest stable minor release with platform updates and bug fixes ([v1.54.6](https://github.com/backstage/backstage/releases/tag/v1.54.6) latest patch).
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
+- [BackstageCon + KubeCon EU 2026 Amsterdam](https://backstage.io/blog/2026/04/20/backstagecon-kubecon-26-amsterdam) - Schedule, CFP, and maintainer sessions for the Amsterdam event.
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
 - [CVE-2024-26150 Security Notice](https://backstage.io/blog/2024/02/28/security-notice/) - Scaffolder path traversal fix and recommended upgrades.
 - [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
