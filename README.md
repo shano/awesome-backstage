@@ -76,6 +76,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ## Tools and Integrations
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
 - [Upgrade Helper](https://backstage.github.io/upgrade-helper/?to=1.54.0) - Compare versions and plan dependency updates for Backstage upgrades.
