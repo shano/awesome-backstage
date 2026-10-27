@@ -97,13 +97,25 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 
 ## Articles and Presentations
 
+### Videos
+
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
+- [BackstageCon 2026 Amsterdam playlist](https://www.youtube.com/watch?v=93M6jStFEf4&list=PL8iP9yIjU0Q0eZv3LncHLG3g5itFec995) - Recorded talks from the Amsterdam conference.
+- [BackstageCon 2025 Atlanta playlist](https://www.youtube.com/watch?v=vcMzVi92n-w&list=PL8iP9yIjU0Q33vpSaBlAvIhgDb-9smXUU) - Recorded talks from the Atlanta conference.
+
+### Blog Posts
+
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.54.0 Release Notes](https://backstage.io/docs/releases/v1.54.0/) - Latest stable minor release with platform updates and bug fixes ([v1.54.6](https://github.com/backstage/backstage/releases/tag/v1.54.6) latest patch).
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
 - [BackstageCon + KubeCon EU 2026 Amsterdam](https://backstage.io/blog/2026/04/20/backstagecon-kubecon-26-amsterdam) - Schedule, CFP, and maintainer sessions for the Amsterdam event.
+- [Backstage in Production Becomes a Platform Operating System](https://drodil.medium.com/backstage-in-production-becomes-a-platform-operating-system-f1ecd0b6fb7b) - What changes when your portal grows into the primary interface for onboarding, templates, and permissions.
+- [Backstage Meets AI: The MCP Integration](https://drodil.medium.com/backstage-meets-ai-the-mcp-integration-ba3c67e41e05) - Expose the catalog and scaffolder actions to AI clients through MCP tools.
+- [Backstage TechDocs: Turning Documentation from Obligation to Culture](https://drodil.medium.com/backstage-techdocs-turning-documentation-from-obligation-to-culture-38464c53c266) - Making TechDocs a maintained and trusted part of the developer experience.
+- [Avoiding Pitfalls with Backstage Catalog](https://drodil.medium.com/avoiding-pitfalls-with-backstage-catalog-209118cebaf2) - Common catalog modeling mistakes and how to avoid them.
+- [Backstage Does Not Need More Plugins, It Needs Better Gardens](https://drodil.medium.com/backstage-does-not-need-more-plugins-it-needs-better-gardens-3f9dfdc0d131) - Why a few well-maintained integrations beat a large plugin count.
+- [Backstage v1.54.0 Release Notes](https://backstage.io/docs/releases/v1.54.0/) - Latest stable minor release with platform updates and bug fixes ([v1.54.6](https://github.com/backstage/backstage/releases/tag/v1.54.6) latest patch).
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
 - [CVE-2024-26150 Security Notice](https://backstage.io/blog/2024/02/28/security-notice/) - Scaffolder path traversal fix and recommended upgrades.
 - [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
